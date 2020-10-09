@@ -1,0 +1,148 @@
+  1 iterations, level 2 has 2 nodes
+  3 iterations, level 3 has 4 nodes
+  7 iterations, level 4 has 8 nodes
+  15 iterations, level 5 has 16 nodes
+  31 iterations, level 6 has 20 nodes
+  51 iterations, level 7 has 39 nodes
+  90 iterations, level 8 has 62 nodes
+  152 iterations, level 9 has 116 nodes
+  268 iterations, level 10 has 152 nodes
+  420 iterations, level 11 has 286 nodes
+  706 iterations, level 12 has 396 nodes
+  1102 iterations, level 13 has 748 nodes
+  1850 iterations, level 14 has 1024 nodes
+  2874 iterations, level 15 has 1893 nodes
+  4767 iterations, level 16 has 2512 nodes
+  7279 iterations, level 17 has 4485 nodes
+  11764 iterations, level 18 has 5638 nodes
+found target
+ 1 2 3
+ 4 5  
+ 7 8 6
+
+inversion: 2
+----------------------
+ 1 2 3
+ 4   5
+ 7 8 6
+
+inversion: 2
+----------------------
+ 1 2 3
+   4 5
+ 7 8 6
+
+inversion: 2
+----------------------
+   2 3
+ 1 4 5
+ 7 8 6
+
+inversion: 4
+----------------------
+ 2   3
+ 1 4 5
+ 7 8 6
+
+inversion: 4
+----------------------
+ 2 3  
+ 1 4 5
+ 7 8 6
+
+inversion: 4
+----------------------
+ 2 3 5
+ 1 4  
+ 7 8 6
+
+inversion: 6
+----------------------
+ 2 3 5
+ 1   4
+ 7 8 6
+
+inversion: 6
+----------------------
+ 2   5
+ 1 3 4
+ 7 8 6
+
+inversion: 6
+----------------------
+   2 5
+ 1 3 4
+ 7 8 6
+
+inversion: 6
+----------------------
+ 1 2 5
+   3 4
+ 7 8 6
+
+inversion: 4
+----------------------
+ 1 2 5
+ 7 3 4
+   8 6
+
+inversion: 6
+----------------------
+ 1 2 5
+ 7 3 4
+ 8   6
+
+inversion: 6
+----------------------
+ 1 2 5
+ 7 3 4
+ 8 6  
+
+inversion: 6
+----------------------
+ 1 2 5
+ 7 3  
+ 8 6 4
+
+inversion: 8
+----------------------
+ 1 2  
+ 7 3 5
+ 8 6 4
+
+inversion: 8
+----------------------
+ 1   2
+ 7 3 5
+ 8 6 4
+
+inversion: 8
+----------------------
+   1 2
+ 7 3 5
+ 8 6 4
+
+inversion: 8
+----------------------
+11890 iterations 0.13514494895935059 seconds 87979.61071838741 itn/s
+17626 states
+nodes by level
+0 1
+1 2
+2 4
+3 8
+4 16
+5 20
+6 39
+7 62
+8 116
+9 152
+10 286
+11 396
+12 748
+13 1024
+14 1893
+15 2512
+16 4485
+17 5638
+
