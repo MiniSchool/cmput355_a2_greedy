@@ -131,7 +131,7 @@ inversion: 12
 
 inversion: 12
 ----------------------
-21648 iterations 0.3168761730194092 seconds 68316.90686530106 itn/s
+21648 iterations 0.34820079803466797 seconds 62171.02350766197 itn/s
 31291 states
 nodes by level
 0 1
